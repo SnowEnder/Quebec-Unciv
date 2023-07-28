@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Cobalt Syndicate Soldier",
+		"name": "Quebecois Ranger",
 		"unitType": "Ranged",
-		"uniqueTo": "Alchembrew",
+		"uniqueTo": "Kingdom of Quebec",
 		"replaces": "Marine",
 		"movement": 5,
-		"strength": 90,
-		"rangedStrength": 90,
-		"range": 6,
+		"strength": 75,
+		"rangedStrength": 75,
+		"range": 3,
 		"cost": 500,
 		"requiredTech": "Ballistics",
 		"requiredResource": "Iron",
-		"promotions": ["Logistics","Accuracy I","March","Amphibious"],
+		"promotions": ["Logistics","Accuracy I","March","Shock I"],
 		"attackSound": "phasers"
 	}
 ]
